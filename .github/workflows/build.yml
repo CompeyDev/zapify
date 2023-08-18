@@ -1,0 +1,23 @@
+name: Build Modpack
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: Install make
+        run: sudo apt-get -y install make
+    
+      - name: Setup Go environment
+        uses: actions/setup-go@v4.1.0
+        
+      - name: Build modpacks
+        run: make
+
+      - name: Upload a modpack artifacts
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: Zapify for Quilt
+          path: "versions/quilt/1.20.1/*.mrpack"
