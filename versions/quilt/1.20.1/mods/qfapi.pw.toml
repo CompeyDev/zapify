@@ -1,0 +1,13 @@
+name = "Quilted Fabric API"
+filename = "qfapi-7.1.2_qsl-6.1.1_fapi-0.87.0_mc-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/aWl2Qw6u/qfapi-7.1.2_qsl-6.1.1_fapi-0.87.0_mc-1.20.1.jar"
+hash-format = "sha256"
+hash = "ff4b7265f35ef0fc75399a2d2187fb9ac9948b82eb57c0ab4de118bbef73785c"
+
+[update]
+[update.modrinth]
+mod-id = "qvIfYCYJ"
+version = "aWl2Qw6u"

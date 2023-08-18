@@ -1,0 +1,13 @@
+name = "AdvancementInfo"
+filename = "advancementinfo-1.20-fabric0.83.0-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1epq3jN/versions/gfcbMV82/advancementinfo-1.20-fabric0.83.0-1.4.jar"
+hash-format = "sha256"
+hash = "cb394550be72cfa2ac1e96031253d8cf3a11a81d5463af2c8ace3bcc5cb5d8d9"
+
+[update]
+[update.modrinth]
+mod-id = "G1epq3jN"
+version = "gfcbMV82"

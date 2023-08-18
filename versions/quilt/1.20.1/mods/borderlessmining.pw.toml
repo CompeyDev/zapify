@@ -1,0 +1,13 @@
+name = "Borderless Mining"
+filename = "borderless-mining-1.1.8+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/lhrW53q7/borderless-mining-1.1.8%2B1.20.1.jar"
+hash-format = "sha256"
+hash = "115fcbf03eb768bab073b337798289e998f13fc62a6a997971d7ccfd02e6a56a"
+
+[update]
+[update.modrinth]
+mod-id = "kYq5qkSL"
+version = "lhrW53q7"

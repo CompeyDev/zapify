@@ -1,0 +1,13 @@
+name = "zapify"
+author = "Erica Marigold <hi@devcomp.xyz>"
+version = "0.1.0+1.20.1.quilt"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a86872a1cab42bb5c8cc624c914162b134d7e96a96278017c3f7a8f251dfbf36"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.2"

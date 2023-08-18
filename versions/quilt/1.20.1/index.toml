@@ -1,0 +1,151 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "c85d87caffbaf83f36bd28390d997a8ef9d42fc1268d8f6d0ccf8fbfbce8caa9"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "68bd44095b0c3990c4841c724a49f6cc19f2450c2afb55746647a601ac2f9d89"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "b1f8db3b60f6fc4affb13c5c341b2b5d144641ddb1fb1e95862280c0dc749827"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "41a5f85f4e6ba7a476031f8199228fdad422aad993d8ac45ffdb708b0a463a3c"
+metafile = true
+
+[[files]]
+file = "mods/bettermounthud.pw.toml"
+hash = "0ee8ac3c935b42b3683111d88f5a273e8495f89540aa2fd5d88c650753c54935"
+metafile = true
+
+[[files]]
+file = "mods/betterpingdisplay.pw.toml"
+hash = "df6bf67a8a2bf43846704add95b48cea2bb528686dff1db61bcf4332588c5c6f"
+metafile = true
+
+[[files]]
+file = "mods/boostedbrightness.pw.toml"
+hash = "80f286074fd4051eb65582de78db5dd4f0b57984eecbd3a1b6d15fb25e1ba978"
+metafile = true
+
+[[files]]
+file = "mods/borderlessmining.pw.toml"
+hash = "65a007636607cc24b7b5ac3431b10d58b45eda1b943a912b17ffce57e6d359ec"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "45d27684b5abe22b0b98c8ed5da5d10555ede64d864477fa9eca11fe6351e692"
+metafile = true
+
+[[files]]
+file = "mods/chatheads.pw.toml"
+hash = "a66e7ff2e7496154bb26522b0fad15d94e131e82c2d9d256b9e0002964500605"
+metafile = true
+
+[[files]]
+file = "mods/citresewn.pw.toml"
+hash = "d5bc4e17293cbed6ea119a60fcf52d9295a36045c2a28c719740466e5850040d"
+metafile = true
+
+[[files]]
+file = "mods/clothconfig.pw.toml"
+hash = "13c440a9aedcf00a50d08d623e1bec8bd21d3c99489e4962b66b7fec8627bcce"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "5d227fccfbb7dfe88c485e1f0006f57d97ff567eec04557fb320039e4fb5ff22"
+metafile = true
+
+[[files]]
+file = "mods/darkloadingscreen.pw.toml"
+hash = "8e348e8f5abfd3ea9725f17aa824ed7073e84df673a767bb002168570d05784c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "48d83d8ac06349054f84b08657ea38a92e6004d5f762ac2ca48925192857b76f"
+metafile = true
+
+[[files]]
+file = "mods/dynamicfps.pw.toml"
+hash = "06b89099f0b505fba58dd9f8af537efc3ae2107d3eac00f53cbeee3f76d4397d"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "b72ba7dfef0d5afe153a0cf7308626117f2644e9339b7b44d43141285cdbb221"
+metafile = true
+
+[[files]]
+file = "mods/enhancedblockentities.pw.toml"
+hash = "4ca0e7ee102fd3be2b21cc5bb47109c501890aa749f9e8ab6ad6d893b4914cdd"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "02d8931a85c93673d54757e78bd5491c4cd116c0690b5c7f6c2ff8a61aa6223e"
+metafile = true
+
+[[files]]
+file = "mods/entitymodelfeatures.pw.toml"
+hash = "d71ca1355118c962ae87c22ad2b2b4073fb80b0bf5da90dc4171c81e5a9a07e8"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "b20b9f99fff85f21b5764c0c08587f2b42ff7ba861f41806395a3eb982b1aa8c"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "67476d4506eba31481ce67eb04c3f630053028746487b3f2db76a8414f3127ad"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+hash = "5d32d29f9574398bced3fd33883ac928ff0b20d0133d4364ce62f2ef22437ed2"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "ded7987cb5b32c84cf6f5015cb66c86cd6e43d19ec2fef45247be713e5e757b7"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "1a761a70b4208132c9db782026e3da15fe835ddabeb7600cfef33cb4b4332326"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "63f5df759a4df29551539bb6a48d88350330792012602af244617d22c61f1943"
+metafile = true
+
+[[files]]
+file = "mods/qfapi.pw.toml"
+hash = "308a1acb3f3bb644ac0acb612f2d3d9512e1e4b0ec9f38909d500001f9b7da20"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "0c7dea8c1e87c686b0e05a5d372aa5d8097c4ad88a8e5064561ba21c140b8247"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b5c99f9e922e738bcd296262429d3a023e0f79c5bfbf60ca745807eab5adfb69"
+metafile = true
+
+[[files]]
+file = "mods/yetanotherconfiglib.pw.toml"
+hash = "20fad007361224d9f17dab9b195cf966d048ca2aa140207368cfa74d9ef1d7c4"
+metafile = true

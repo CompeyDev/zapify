@@ -1,0 +1,13 @@
+name = "Animatica"
+filename = "animatica-0.6+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/uNgEPb10/animatica-0.6%2B1.20.jar"
+hash-format = "sha256"
+hash = "cdfc6e7d48faf10e43f4072d58fbc05c842dfee7d41126db6deefdcf803cbda6"
+
+[update]
+[update.modrinth]
+mod-id = "PRN43VSY"
+version = "uNgEPb10"
