@@ -6,12 +6,12 @@ on:
 jobs:
   build:
     runs-on: "ubuntu-latest"
-    steps:
-      - name: Install make
-        run: sudo apt-get -y install make
-    
+    steps:    
       - name: Setup Go environment
         uses: actions/setup-go@v4.1.0
+
+      - name: Checkout repo
+        uses: actions/checkout@v3
         
       - name: Build modpacks
         run: make
