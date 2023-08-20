@@ -1,7 +1,7 @@
 <img align="right" height="200" src="https://raw.githubusercontent.com/CompeyDev/zapify/main/assets/logo.png" />
 
 # zapify
-A lightweight client-sided modpack providing various QoL and performance improvements. Available for [Fabric](https://quiltmc.org/en/) and [Quilt](https://quiltmc.org/en/). Free and open-source.
+A lightweight client-sided modpack providing various QoL and performance improvements. Available for [Fabric](https://www.fabricmc.net/) and [Quilt](https://quiltmc.org/en/). Free and open-source.
 
 
 ## Installation
