@@ -3,11 +3,6 @@ filename = "ferritecore-5.2.0-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar"
+url = "https://www.curseforge.com/api/v1/mods/459857/files/4574364/download"
 hash-format = "sha256"
-hash = "5e77ce8d0bb9d62b06a9b3f5c0c4872493ca32b9fc3ba38a9c8a6c4d75af70fa"
-
-[update]
-[update.modrinth]
-mod-id = "uXXizFIs"
-version = "RbR7EG8T"
+hash = "efbf1d4df2a89621bb8d7090e04966795047db16513fef673a529a07dff66afe"
