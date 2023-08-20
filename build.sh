@@ -33,4 +33,4 @@ echo "##################################"
 
 packwiz modrinth export | sed 's/^/[packwiz]: /'
 
-echo -e "\nBuild modpack successfully!"
+echo -e "\nBuilt modpack successfully!"

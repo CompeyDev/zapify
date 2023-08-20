@@ -1,6 +1,122 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "44bdc124d4e9ec5488bac6e79d19bd5a8841aa0af415b49b359e34f639433c69"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/armorhud.properties"
+hash = "67a5fbb680f612207995a7d0833e041f5329e3740f3391ba28c8aa6cd096acd2"
+
+[[files]]
+file = "config/boostedbrightness.json"
+hash = "4ce2b54d8b9c4da500e859c26b2d8900110d5556dc4befe79850e55004e34244"
+
+[[files]]
+file = "config/continuity.json"
+hash = "c1099c057086c0a3161cd41926a2685217d22f150b7c62ccb80a04d5fcd05244"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "f730f8fdc7e4ce369ef0a99f0b7025e5823cea353b1e199776c470d81434b37f"
+
+[[files]]
+file = "config/dark-loading-screen.json"
+hash = "30b7a18e4d7e9afacd66b68c5efeb7d19b819838c4b153a3a86daff6a59d1f41"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "2ee052a41d7297f3805502b58846bf6ee1c7777f9fd8bf50df4e7f715ee0ccd2"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "b984a91c2736fcdac717416a735e142c56b5501678b2f2bab4e8bba772aae66d"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "0ba41b0756f2cca68adfff48330a20ae61fa318932af99182a5986501815622a"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/fabricskyboxes-config.json"
+hash = "1be5471ceb0179658652643d5f66603f335c830274b8acf38b82c602e454d112"
+
+[[files]]
+file = "config/fabrishot.properties"
+hash = "ec6d75dab427863475ccd4e25d260872fb8443987b5cce510930b65c0d5fbdbe"
+
+[[files]]
+file = "config/fastload.properties"
+hash = "cc4d8b6a5d8be2b7c97175c6a92ae6d10fed51d187e1563ce99a7563c4dd5624"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/fsb-interop.json"
+hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
+
+[[files]]
+file = "config/holdthatchunk.json"
+hash = "f2e8b6f416dbdc7163edc5ed7e448e13f11e8c309c21a44709a5c6818ba2499c"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "12caca468658e5f70ded5aa2d06ea5392d69d5e54534501d2d222216233b4e5c"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "d8633ddb6f49fe4f309edea5d9ce654f1267f4519a9c24bfc86e58f9eae46f38"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "a6ca39d1e9448b78368a6575ccf2ee98e4e210191b24fed842e0ddaf06652fa2"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "6bfe50f649d90f6dbe6037b44e76cb8116a71b46aced6f8937c8a44990aa209a"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "31b4f5e6090b4048858edfcf45f842240d031c580e600b91b5708824bfb710ec"
+
+[[files]]
+file = "config/rrls.toml"
+hash = "622e98cf832506aa24634e302984536fd06be31fe29e9621317776589f995e56"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "409889849881da42ef21b544bd78a937f2b2a33f2e7123c3d9d8688d139a7689"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "6654e42094936d34bc48b06ecfbed3b0316ed8fa4868721b30d862275e2e233d"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "c85d87caffbaf83f36bd28390d997a8ef9d42fc1268d8f6d0ccf8fbfbce8caa9"
 metafile = true
@@ -101,8 +217,13 @@ hash = "d71ca1355118c962ae87c22ad2b2b4073fb80b0bf5da90dc4171c81e5a9a07e8"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "21095a6583603c944b933ddf086cba406856bc7cb813a24bb9fe0d7b48b1f8dc"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "b20b9f99fff85f21b5764c0c08587f2b42ff7ba861f41806395a3eb982b1aa8c"
+hash = "3f2c6d573a3ee10eb56a9126856904f9da840e3203e6b9d302b8aec9b4d7c13d"
 metafile = true
 
 [[files]]
@@ -122,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "1a761a70b4208132c9db782026e3da15fe835ddabeb7600cfef33cb4b4332326"
+hash = "9ed6f6244699634e6b3bf7b22aa2149bb8530a38a9d22be9588503130a657613"
 metafile = true
 
 [[files]]
