@@ -1,0 +1,13 @@
+name = "Small View Model"
+filename = "smallviewmodel-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKxxmreJ/versions/HEfGs409/smallviewmodel-1.0.jar"
+hash-format = "sha256"
+hash = "0d7be8fbc874860679a042d4737f8ccedb172d4724b206ccde7a353b1317803d"
+
+[update]
+[update.modrinth]
+mod-id = "NKxxmreJ"
+version = "HEfGs409"

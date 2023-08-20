@@ -1,0 +1,13 @@
+name = "Your Options Shall Be Respected"
+filename = "yosbr-0.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
+hash-format = "sha256"
+hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+
+[update]
+[update.modrinth]
+mod-id = "WwbubTsV"
+version = "KMOzdYko"

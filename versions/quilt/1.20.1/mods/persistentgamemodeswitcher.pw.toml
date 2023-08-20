@@ -1,0 +1,13 @@
+name = "Persistent Gamemode Switcher"
+filename = "PersistentGamemodeSwitcher-1.0.3.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/elOkohV5/versions/lgevzn4d/PersistentGamemodeSwitcher-1.0.3.7.jar"
+hash-format = "sha256"
+hash = "3c7dffc3f578ad5b7514cb99d106b7dc25b90a405d9c3299f6e6b33557a77f52"
+
+[update]
+[update.modrinth]
+mod-id = "elOkohV5"
+version = "lgevzn4d"

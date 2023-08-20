@@ -126,8 +126,103 @@ hash = "1a761a70b4208132c9db782026e3da15fe835ddabeb7600cfef33cb4b4332326"
 metafile = true
 
 [[files]]
+file = "mods/fsbinterop.pw.toml"
+hash = "56998d6931f88cb1403dbea9951c81f9c15d5bc9e4b9909ac72ab5f70e580d6e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "07ce00819026d43d91603cc59862e0f29db130cb74ab9e5d51c13dd3f15991d6"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "3c3ef10af974bec993e8cc83eb6c1b001b8abbb4aea75b04d5d6df2c6ef1f81a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "8e1cfe1a9c45654dfe73126758742a50a1386fe077f3753338b0daee8063b871"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "7914c2dcb62d3e1939d72313598893a3364c22f7ed09a0dad8c06a261edd6468"
+metafile = true
+
+[[files]]
+file = "mods/languagereload.pw.toml"
+hash = "8a32f18e671235d46dd90efa7cd798ae3b416492938f00f85cdbf90c1489c814"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "cd26105e6edecb07a69b19d93332bdd7ba792c07141516ca9ef1f04631c650c8"
+metafile = true
+
+[[files]]
+file = "mods/mainmenucredits.pw.toml"
+hash = "0485d31162eb9021641ea03118c200c4e8a1b44c272283c363a3d097fa458d78"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "32b92104af38451da0a631fe6f3f1d6f576623945d543059c7825209126d500c"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "02e770757439b3175c52c213213f9e0797da84c6d3ce0000722ee459a0e5d615"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "2c45e94010a155fb5e2c1e10b760ea53677eb54c019428c0aa6d36960dd1343b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8dfb22e70b952258c05582f7825440df221c338b8d9849e883371b33cfb5ad9e"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "63f5df759a4df29551539bb6a48d88350330792012602af244617d22c61f1943"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "ef88429826900f3d250693778a5e5e4c53b053288086ec5859c75793ddff59fd"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "9c43587ab1b5026910a8bf285de4d55d839cf0345177fb5fb69c1c8a17808307"
+metafile = true
+
+[[files]]
+file = "mods/mousetweaks.pw.toml"
+hash = "c07f17e9cb30548c87f4577df2d4dcf6f32ae4c80b892d777a51529d3a3306ac"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "fc7c4e3a079dd03e97519723f7f1a2e3f69183a6189049f8cabf1eb2eacb14fe"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "5daa2a6d2a55f34757c1b74c2fec65067ece9cc15bca7555d15fababd71b8d68"
+metafile = true
+
+[[files]]
+file = "mods/persistentgamemodeswitcher.pw.toml"
+hash = "67b1697568629fbbab01efc0f080925a0a2768249f00423bf4c730ed6ec97ced"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "226ebf3da8d46656385624f7ead9cecb9cfa20aa44697d412b46cd34ba869d61"
 metafile = true
 
 [[files]]
@@ -141,11 +236,46 @@ hash = "0c7dea8c1e87c686b0e05a5d372aa5d8097c4ad88a8e5064561ba21c140b8247"
 metafile = true
 
 [[files]]
+file = "mods/reesessodiumoptions.pw.toml"
+hash = "5c1ca8a50c779030220fae3383885093eb728c35c7c75baa53ab584f1e40d7ad"
+metafile = true
+
+[[files]]
+file = "mods/removereloadingscreen.pw.toml"
+hash = "2c631f5e24575cf6842dc95d922f4579b89fd42e69a97bcd74d9242954a56c9d"
+metafile = true
+
+[[files]]
+file = "mods/simplearmorhud.pw.toml"
+hash = "194a67a8db16f9af988c0c79378b25441019ce81efc7b12809178b161b382240"
+metafile = true
+
+[[files]]
+file = "mods/smallviewmodel.pw.toml"
+hash = "50cd40c407f7ec15b21a78192eaf43ddc894b5836529ac56dd23073c94fb8ca9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "b5c99f9e922e738bcd296262429d3a023e0f79c5bfbf60ca745807eab5adfb69"
 metafile = true
 
 [[files]]
+file = "mods/sodiumextra.pw.toml"
+hash = "26998d19b36e62a947981069b679673a03b8506a1af71d7d1abe4b27f3cc4303"
+metafile = true
+
+[[files]]
 file = "mods/yetanotherconfiglib.pw.toml"
 hash = "20fad007361224d9f17dab9b195cf966d048ca2aa140207368cfa74d9ef1d7c4"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "fdb5b2c129282a588d4111ca55b5e745f0e4b4ba8c950dafb9a2aed8a405266c"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "f7847316d2ef8b5a488e3d440ee03088f488c5143ea94fcc1d7bd6d06bc2b3cc"
 metafile = true

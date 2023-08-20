@@ -1,0 +1,13 @@
+name = "MoreChatHistory"
+filename = "morechathistory-1.19.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.19.1-1.1.1/morechathistory-1.19.1-1.1.1.jar"
+hash-format = "sha256"
+hash = "dbb46f95282c7ee472f1e33a2cffef4303f798389ed3929d139aaabcc9f0d137"
+
+[update]
+[update.modrinth]
+mod-id = "8qkXwOnk"
+version = "mc1.19.1-1.1.1"

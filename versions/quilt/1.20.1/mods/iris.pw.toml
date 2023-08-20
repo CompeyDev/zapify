@@ -1,0 +1,13 @@
+name = "Iris"
+filename = "iris-mc1.20.1-1.6.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/pVNPPrMY/iris-mc1.20.1-1.6.8.jar"
+hash-format = "sha256"
+hash = "c7ca28abb609e770f0d4fcb08bb92d9f24be55a07dad859117bd7b382d67a3b9"
+
+[update]
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "pVNPPrMY"
