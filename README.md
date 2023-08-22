@@ -22,7 +22,7 @@ The the generated modpack files can be found in the folder for each version and 
 >  What are the mods present in the modpack?
 To view the mods available the modpack for a particular version, simply look at the files present in the `mods/` directory for a specific version or modloader.
 
-### <img height="20" src="https://raw.githubusercontent.com/CompeyDev/zapify/main/assets/purple_heart.png">Special thanks to:</img>
+### <img height="20" src="https://raw.githubusercontent.com/CompeyDev/zapify/main/assets/purple_heart.png"> Special thanks to:</img>
 
 - [modrinth](https://modrinth.com) for providing a free mod hosting platform,
 - [comp558](https://github.com/comp500) for building packwiz, the build tool used by zapify, and
