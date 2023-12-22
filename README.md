@@ -1,3 +1,5 @@
+[Get the latest build here!](https://nightly.link/CompeyDev/zapify/workflows/build/main/Zapify%20for%20Quilt.zip)
+
 <img align="right" height="200" src="https://raw.githubusercontent.com/CompeyDev/zapify/main/assets/logo.png" />
 
 # zapify
@@ -5,7 +7,7 @@ A lightweight client-sided modpack providing various QoL and performance improve
 
 
 ## Installation
-Zapify is yet to be published to modrinth, so for the meanwhile, get a beta release from the [actions](https://github.com/CompeyDev/zapify/actions) page. Builds are currently only available for Quilt.
+Zapify is yet to be published to modrinth, so for the meanwhile, get a precompiled release from the [actions](https://github.com/CompeyDev/zapify/actions) page. Builds are currently only available for Quilt.
 
 ## Development
 To build the zapify, first install [packwiz](https://github.com/packwiz/packwiz), the build tool utilized by zapify.
